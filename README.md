@@ -18,6 +18,17 @@ The Thought Leadership API is a server-side application that provides the necess
 - **Search Functionality**: Users can search for other users and posts based on keywords or hashtags.
 
 - **Security**: The backend ensures secure communication, protects against common web vulnerabilities (e.g., SQL injection, XSS), and implements authentication and authorization mechanisms to control access to certain endpoints.
+
+
+## Future Updates
+
+- Add profile Picture
+
+- Add images and videos in post
+
+- Create protect routes
+
+
 ## Tech Stack
 
 **Server:** Node, GraphQL  
