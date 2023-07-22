@@ -1,5 +1,5 @@
-#  Social Media Backend
-The Social Media Backend is a server-side application that provides the necessary functionality to support a social media platform. It handles user authentication, user profiles, posts, comments, likes, and follows. The backend interacts with a database to store and retrieve user data and social interactions.
+# The Thought Leadership API
+The Thought Leadership API is a server-side application that provides the necessary functionality to support a social media platform. It handles user authentication, user profiles, posts, comments, likes, and follows. The backend interacts with a database to store and retrieve user data and social interactions.
 
 ## Key Features:
 
