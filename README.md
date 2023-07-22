@@ -7,9 +7,9 @@ The Thought Leadership API is a server-side application that provides the necess
 
 - **User Authentication** : Users can register, log in, and log out of the platform. Passwords are securely hashed and stored in the database.
 
-- **User Profiles**: Each user has a profile containing basic information such as name, username, email, and profile picture.
+- **User Profiles**: Each user has a profile containing basic information such as name, username, email.
 
-- **Post Creation and Retrieval**: Users can create new posts with text, images, or videos. They can also retrieve their own posts and view posts from other users.
+- **Post Creation and Retrieval**: Users can create new posts with text. They can also retrieve their own posts and view posts from other users.
 
 - **Comments and Likes**: Users can comment on posts and like them. The number of likes and comments for each post is tracked.
 
