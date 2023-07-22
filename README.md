@@ -18,6 +18,6 @@ The Thought Leadership API is a server-side application that provides the necess
 - **Security**: The backend ensures secure communication, protects against common web vulnerabilities (e.g., SQL injection, XSS), and implements authentication and authorization mechanisms to control access to certain endpoints.
 ## Tech Stack
 
-**Server:** Node, Express  
+**Server:** Node, GraphQL  
 **Database:** MongoDB
 
