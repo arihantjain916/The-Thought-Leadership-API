@@ -21,12 +21,12 @@ The Thought Leadership API is a server-side application that provides the necess
 
 
 ## Future Updates
-
-- Add profile Picture
-
-- Add images and videos in post
-
-- Create protect routes
+- Adding Profile Pictures for enhanced personalization.
+  
+- Allowing Images and Videos in Posts to make content more dynamic and engaging.
+  
+- Creating Protected Routes to further enhance security measures.
+  
 
 
 ## Tech Stack
